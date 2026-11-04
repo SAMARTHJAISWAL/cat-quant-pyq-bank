@@ -10,6 +10,8 @@
 
 Every Quantitative Aptitude question from CAT 2014–2025 that could be reliably sourced: **656 questions from 26 papers**, grouped by topic and tagged with year, slot and difficulty. Each one is solved the CAT way: the concept, the formula, the steps, and a shortcut where one exists.
 
+Companion to the [CAT VARC PYQ Bank](https://github.com/SAMARTHJAISWAL/cat-varc-pyq-bank).
+
 ## Features
 
 - **Filter by anything:** area, topic, year, slot, difficulty (Easy / Medium / Hard) and type (MCQ or TITA), or switch from grouping by topic to grouping by paper.
